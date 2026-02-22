@@ -1,10 +1,10 @@
-# Cold-chain Integrity Monitoring with AI
+# cold-chain-integrity-monitoring-ai
 
-Ensure temperature and handling integrity across cold-chain logistics.
+## Detailed Description
 
 ## Vertical
 
-iot
+## Problem Statement
 
 ## Production MVP Deliverables
 
